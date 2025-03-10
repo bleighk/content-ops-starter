@@ -23,7 +23,7 @@
         {
             "label": "How It Works",
             "altText": "How It Works",
-            "url": "/blog",
+            "url": "/how",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
