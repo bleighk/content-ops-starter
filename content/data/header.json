@@ -22,7 +22,7 @@
         },
         {
             "label": "How It Works",
-            "altText": "Blog",
+            "altText": "How It Works",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
