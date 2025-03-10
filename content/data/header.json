@@ -13,14 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Case Studies",
-            "url": "/casestudies",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "How We Work",
             "altText": "How We Work",
             "url": "/how",
