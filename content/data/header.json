@@ -11,17 +11,7 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [
-        {
-            "label": "Contact Us",
-            "altText": "Contact Us",
-            "url": "https://form.typeform.com/to/pofZWmNp",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "primaryLinks": [],
     "secondaryLinks": [
         {
             "label": "Book Intro Call",
