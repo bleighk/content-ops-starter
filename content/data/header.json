@@ -75,7 +75,7 @@
         {
             "label": "Book Intro Call",
             "altText": "Book Intro Call",
-            "url": "https://app.netlify.com/signup",
+            "url": "https://app.netlify.com/intro",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
