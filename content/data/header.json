@@ -35,7 +35,7 @@
         {
             "label": "Book Intro Call",
             "altText": "Book Intro Call",
-            "url": "https://app.netlify.com/intro",
+            "url": "/contact",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
