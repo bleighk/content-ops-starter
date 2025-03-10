@@ -15,7 +15,7 @@ sections:
     actions:
       - label: Book Intro Call
         altText: ''
-        url: /
+        url: 'https://calendly.com/bradknight/30min'
         showIcon: false
         icon: arrowRight
         iconPosition: right
