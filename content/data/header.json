@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Case Studies",
-            "url": "/pricing",
+            "url": "/casestudies",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
