@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "How We Work",
-            "altText": "How We Work",
-            "url": "/how",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "Contact Us",
             "altText": "Contact Us",
             "url": "https://form.typeform.com/to/pofZWmNp",
