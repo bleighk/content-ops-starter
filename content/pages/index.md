@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: "The best ideas\_ brought together"
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
