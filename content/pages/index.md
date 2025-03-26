@@ -162,7 +162,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic Section With A Form
+      text: Let's explore what's possible
       color: text-dark
     subtitle: Section with a form subtitle
     text: |-
