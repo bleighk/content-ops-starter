@@ -62,7 +62,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
       At Collider, we help small and medium-sized companies turn the promise of
       AI into real-world impact for businesses.
