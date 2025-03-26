@@ -124,8 +124,9 @@ sections:
         tagline: Automate the boring. Focus on what matters.
         subtitle: ''
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          We streamline your operations using tools like Zapier, Make, and
+          N8N—covering everything from sales to customer support. Think fewer
+          clicks, faster responses, and zero dropped balls,
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
