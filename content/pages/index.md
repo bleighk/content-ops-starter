@@ -57,7 +57,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Where AI meets ROI
+      text: Less busywork; more business
       color: text-dark
       styles:
         self:
