@@ -8,11 +8,9 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
-    text: >+
-      Collider builds tailored AI systems that generate leads, automate
-      workflows, and embed into your business—so you can scale smarter, not
-      harder.
-
+    text: >
+      Transform your business with cutting-edge AI solutions in lead generation,
+      AI agent development, and workflow automation.
     actions:
       - label: Book Intro Call
         altText: ''
