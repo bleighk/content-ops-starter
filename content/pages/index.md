@@ -72,7 +72,7 @@ sections:
     items:
       - title: Lead generation
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Find your next customer - automatically
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
