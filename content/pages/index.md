@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We build cutting-edge AI solutions to transform your business — so you can
-      scale smarter, not harder.
+      At Collider, we build cutting-edge AI solutions to transform your business
+      — so you can scale smarter, not harder.
     actions:
       - label: Book Intro Call
         altText: ''
@@ -68,9 +68,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Where AI meets ROI
+    subtitle: ''
     items:
-      - title: Lead generation
+      - title: Lead Generation
         tagline: Find your next customer - automatically
         subtitle: ''
         text: >
@@ -95,11 +95,13 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+      - title: AI Agent Development
+        tagline: 'Your digital team, on autopilot'
+        subtitle: ''
+        text: >
+          We build custom AI agents that live inside your workflows. From
+          answering queries to handling repetitive tasks, our agents are trained
+          to *think and do*.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
@@ -118,12 +120,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+      - title: Workflow Automations
+        tagline: Automate the boring. Focus on what matters.
+        subtitle: ''
+        text: >+
+          We streamline your operations using tools like Zapier, Make, and
+          N8N—covering everything from sales to customer support. Think fewer
+          clicks, faster responses, and zero dropped balls.
+
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
