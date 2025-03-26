@@ -63,11 +63,21 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      At Collider, we help small and medium-sized companies turn the promise of
+      AI into real-world impact for businesses.
+
+
+      Whether you’re drowning in manual tasks, missing sales opportunities, or
+      simply not sure where to start—Collider brings clarity and execution.
+
+
+      We don’t just build tools. We build systems that think, work, and scale
+      alongside your team.
+
+
+
+
     actions: []
     media:
       type: VideoBlock
