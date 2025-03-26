@@ -7,9 +7,7 @@ sections:
       text: AI that works as hard as you do
       color: text-dark
       type: TitleBlock
-    subtitle: >-
-      Transform your business with cutting-edge AI solutions in lead generation,
-      AI agent development, and workflow automation.
+    subtitle: ''
     text: >
       Transform your business with cutting-edge AI solutions in lead generation,
       AI agent development, and workflow automation.
