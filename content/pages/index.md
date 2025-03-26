@@ -95,7 +95,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: AI Agent Development
         tagline: 'Your digital team, on autopilot'
         subtitle: ''
         text: >
