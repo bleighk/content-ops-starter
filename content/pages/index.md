@@ -98,12 +98,10 @@ sections:
       - title: Feature Item Two
         tagline: 'Your digital team, on autopilot'
         subtitle: ''
-        text: >+
-          We build custom AI agents that live inside your workflows—whether it’s
-          Slack, your CRM, or something entirely unique. From answering queries
-          to handling repetitive tasks, our agents are trained to *think and
-          do*.
-
+        text: >
+          We build custom AI agents that live inside your workflows. From
+          answering queries to handling repetitive tasks, our agents are trained
+          to *think and do*.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
