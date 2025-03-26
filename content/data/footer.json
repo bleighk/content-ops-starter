@@ -4,14 +4,7 @@
         "type": "ImageBlock"
     },
     "text": "",
-    "socialLinks": [
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [],
     "copyrightText": "©️ 2025, Collider all rights reserved\n\n",
     "colors": "bg-dark-fg-light",
