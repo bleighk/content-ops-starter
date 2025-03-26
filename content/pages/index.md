@@ -71,7 +71,7 @@ sections:
     subtitle: Where AI meets ROI
     items:
       - title: Lead generation
-        tagline: This is the tagline
+        tagline: Find your next customer - automatically
         subtitle: Find your next customer - automatically
         text: |
           Follow the tutorial to build your first Netlify Create site.
