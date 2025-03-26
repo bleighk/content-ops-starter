@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We build cutting-edge AI solutions to transform your business — so you can
-      scale smarter, not harder.
+      At Collider, we build cutting-edge AI solutions to transform your business
+      — so you can scale smarter, not harder.
     actions:
       - label: Book Intro Call
         altText: ''
