@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      Transform your business with cutting-edge AI solutions in lead generation,
-      AI agent development, and workflow automation.
+      We build cutting-edge AI solutions to transform your business — so you can
+      scale smarter, not harder.
     actions:
       - label: Book Intro Call
         altText: ''
