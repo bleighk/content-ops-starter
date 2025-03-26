@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: The best ideas brought together
+      text: AI that works as hard as you do
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
