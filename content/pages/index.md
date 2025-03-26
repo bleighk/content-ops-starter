@@ -68,7 +68,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Where AI meets ROI
+    subtitle: ''
     items:
       - title: Lead Generation
         tagline: Find your next customer - automatically
