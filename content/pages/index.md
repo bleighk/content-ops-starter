@@ -97,7 +97,7 @@ sections:
         type: FeaturedItem
       - title: Feature Item Two
         tagline: 'Your digital team, on autopilot'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
