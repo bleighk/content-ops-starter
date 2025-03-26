@@ -70,7 +70,7 @@ sections:
       type: TitleBlock
     subtitle: Where AI meets ROI
     items:
-      - title: Lead generation
+      - title: Lead Generation
         tagline: Find your next customer - automatically
         subtitle: ''
         text: >
