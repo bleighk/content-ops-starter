@@ -21,11 +21,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: Collider
       color: text-primary
