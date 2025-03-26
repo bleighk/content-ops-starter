@@ -70,7 +70,7 @@ sections:
       type: TitleBlock
     subtitle: Where AI meets ROI
     items:
-      - title: Feature Item One
+      - title: Lead generation
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
