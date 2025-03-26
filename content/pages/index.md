@@ -165,11 +165,11 @@ sections:
       text: Let's explore what's possible
       color: text-dark
     subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Not sure what AI can do for your business? We know where to start.
+
+      On your free discovery call, we’ll explore your biggest bottlenecks—and
+      show you how smart automation can unlock immediate results.
     actions: []
     media:
       type: FormBlock
