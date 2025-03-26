@@ -121,7 +121,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Workflow Automations
-        tagline: This is the tagline
+        tagline: Automate the boring. Focus on what matters.
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
