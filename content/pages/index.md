@@ -73,8 +73,10 @@ sections:
       - title: Lead generation
         tagline: Find your next customer - automatically
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          We combine AI-powered web & social scraping with CRM enrichment and
+          smart outbound outreach. The result? Warm leads that land right in
+          your inbox
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
