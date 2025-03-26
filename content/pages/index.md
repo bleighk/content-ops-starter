@@ -4,14 +4,13 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: The best ideas brought together
+      text: AI that works as hard as you do
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: ''
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      We build cutting-edge AI solutions to transform your business — so you can
+      scale smarter, not harder.
     actions:
       - label: Book Intro Call
         altText: ''
@@ -63,19 +62,21 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: List of features here
+      text: Our services
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Where AI meets ROI
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+      - title: Lead generation
+        tagline: Find your next customer - automatically
+        subtitle: ''
+        text: >
+          We combine AI-powered web & social scraping with CRM enrichment and
+          smart outbound outreach. The result? Warm leads that land right in
+          your inbox
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
