@@ -253,7 +253,7 @@ sections:
           - pr-12
 seo:
   metaTitle: Collider Digital
-  metaDescription: Collider | AI that works as hard as you do
+  metaDescription: AI that works as hard as you
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
