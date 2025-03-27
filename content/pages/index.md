@@ -44,16 +44,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/abstract-background.svg
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
   - type: GenericSection
     title:
       type: TitleBlock
@@ -98,16 +88,17 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
-  - title: Divider
+  - type: DividerSection
+    title: Divider
+    elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
         padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - title:
       text: Our services
       color: text-primary
@@ -209,6 +200,17 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -238,6 +240,17 @@ sections:
         style: secondary
         elementId: ''
     colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
