@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: AI that works as hard as you do
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
