@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: AI that works as hard as you do
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >
@@ -18,15 +18,15 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: secondary
+        style: primary
         elementId: ''
         type: Button
     badge:
       label: Collider
-      color: text-light
+      color: text-dark
       type: Badge
     elementId: ''
-    colors: bg-dark-fg-light
+    colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/milad-fakurian-bMSA5-tLFao-unsplash.jpg
+      url: /images/abstract-background.svg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
