@@ -63,30 +63,22 @@ sections:
         self:
           textAlign: left
     subtitle: ''
-    text: >+
+    text: >
       At Collider, we help small and medium-sized companies turn the promise of
       AI into real-world impact for businesses.
 
 
       Whether you’re drowning in manual tasks, missing sales opportunities, or
       simply not sure where to start—Collider brings clarity and execution.
-
-
-      We don’t just build tools. We build systems that think, work, and scale
-      alongside your team.
-
-
-
-
     actions: []
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/hero-typing.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
+      url: 'https://youtu.be/JbVG7gONuQI'
+      autoplay: false
+      loop: false
+      muted: false
+      controls: true
       aspectRatio: '16:9'
       styles:
         self:

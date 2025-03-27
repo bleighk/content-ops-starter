@@ -18,7 +18,7 @@
             "url": "https://form.typeform.com/to/pofZWmNp",
             "icon": "arrowRight",
             "iconPosition": "right",
-            "style": "secondary",
+            "style": "primary",
             "type": "Button"
         }
     ],
