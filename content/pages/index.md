@@ -233,6 +233,15 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: bg-light-fg-dark
 seo:
   metaTitle: Home - Demo site
