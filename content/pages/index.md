@@ -252,8 +252,8 @@ sections:
           - pb-12
           - pr-12
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Collider Digital
+  metaDescription: Collider | AI that works as hard as you do
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
