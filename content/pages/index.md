@@ -225,7 +225,14 @@ sections:
 
       On your free discovery call, we’ll explore your biggest bottlenecks—and
       show you how smart automation can unlock immediate results.
-    actions: []
+    actions:
+      - type: Button
+        label: Book Intro Call
+        altText: Book Intro Call
+        url: 'https://app.netlify.com/intro'
+        icon: arrowRight
+        iconPosition: right
+        style: primary
     colors: bg-light-fg-dark
 seo:
   metaTitle: Home - Demo site
