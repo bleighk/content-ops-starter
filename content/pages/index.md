@@ -176,7 +176,7 @@ sections:
           clicks, faster responses, and zero dropped balls.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/ferdinand-stohr-NFs6dRTBgaM-unsplash.jpg
           altText: Placeholder image
           styles:
             self:
