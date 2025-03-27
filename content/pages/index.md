@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/diego-ph-mKG3nYgEVIY-unsplash.jpg
+      url: /images/benjamin-henon-RfJX9jGKG84-unsplash.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
