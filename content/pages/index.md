@@ -252,7 +252,7 @@ sections:
           - pb-12
           - pr-12
 seo:
-  metaTitle: Collider Digital
+  metaTitle: Collider |
   metaDescription: AI that works as hard as you
   socialImage: /images/main-hero.jpg
   type: Seo
