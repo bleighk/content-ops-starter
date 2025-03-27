@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/benjamin-henon-RfJX9jGKG84-unsplash.jpg
+      url: /images/milad-fakurian-bMSA5-tLFao-unsplash.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
