@@ -236,7 +236,7 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: 'https://form.typeform.com/to/pofZWmNp'
         showIcon: false
         icon: arrowRight
         iconPosition: right
