@@ -150,7 +150,7 @@ sections:
           answering queries to handling repetitive tasks, our agents are trained
           to *think and do*.
         image:
-          url: /images/shubham-dhage-mjl0yIdSi18-unsplash.jpg
+          url: /images/ashwin-vaswani-JqZ7q_S3xOE-unsplash.jpg
           altText: Placeholder image
           styles:
             self:
