@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: AI that works as hard as you do
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: ''
     text: >
@@ -15,18 +15,18 @@ sections:
       - label: Book Intro Call
         altText: ''
         url: 'https://calendly.com/bradknight/30min'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
-        style: primary
+        style: secondary
         elementId: ''
         type: Button
     badge:
       label: Collider
-      color: text-primary
+      color: text-neutral
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/shubham-dhage-mjl0yIdSi18-unsplash.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -95,9 +95,9 @@ sections:
             - pb-2
             - pl-2
             - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
+          borderColor: border-light
+          borderStyle: none
+          borderWidth: 0
           borderRadius: large
     colors: bg-light-fg-dark
     styles:
