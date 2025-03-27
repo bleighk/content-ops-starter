@@ -26,7 +26,7 @@ sections:
       color: text-light
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         alignItems: center
