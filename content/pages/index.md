@@ -23,7 +23,7 @@ sections:
         type: Button
     badge:
       label: Collider
-      color: text-dark
+      color: text-primary
       type: Badge
     elementId: ''
     colors: bg-dark-fg-light
