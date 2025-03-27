@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/ashwin-vaswani-JqZ7q_S3xOE-unsplash.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
