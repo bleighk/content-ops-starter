@@ -125,7 +125,7 @@ sections:
           smart outbound outreach. The result? Warm leads that land right in
           your inbox
         image:
-          url: /images/1.png
+          url: /images/vackground-com-agUC-v_D1iI-unsplash.jpg
           altText: Placeholder Image
           styles:
             self:
