@@ -234,7 +234,7 @@ sections:
         iconPosition: right
         style: primary
       - type: Button
-        label: Get started
+        label: Contact Us
         altText: ''
         url: 'https://form.typeform.com/to/pofZWmNp'
         showIcon: false
