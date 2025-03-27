@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/ferdinand-stohr-NFs6dRTBgaM-unsplash.jpg
+      url: /images/shubham-dhage-mjl0yIdSi18-unsplash.jpg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
