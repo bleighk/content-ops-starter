@@ -82,7 +82,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/hero-typing.mp4
+      url: 'https://youtu.be/JbVG7gONuQI'
       autoplay: true
       loop: true
       muted: true
