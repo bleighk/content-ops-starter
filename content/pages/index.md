@@ -125,7 +125,7 @@ sections:
           smart outbound outreach. The result? Warm leads that land right in
           your inbox
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/vackground-com-agUC-v_D1iI-unsplash.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -144,17 +144,20 @@ sections:
         type: FeaturedItem
       - title: AI Agent Development
         tagline: 'Your digital team, on autopilot'
-        subtitle: ''
+        subtitle: '  '
         text: >
           We build custom AI agents that live inside your workflows. From
           answering queries to handling repetitive tasks, our agents are trained
           to *think and do*.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/ashwin-vaswani-JqZ7q_S3xOE-unsplash.jpg
           altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
+              padding:
+                - pt-0
+                - pb-0
           type: ImageBlock
         colors: bg-light-fg-dark
         styles:
@@ -176,7 +179,7 @@ sections:
           clicks, faster responses, and zero dropped balls.
 
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/ferdinand-stohr-NFs6dRTBgaM-unsplash.jpg
           altText: Placeholder image
           styles:
             self:
