@@ -144,7 +144,7 @@ sections:
         type: FeaturedItem
       - title: AI Agent Development
         tagline: 'Your digital team, on autopilot'
-        subtitle: ''
+        subtitle: '  '
         text: >
           We build custom AI agents that live inside your workflows. From
           answering queries to handling repetitive tasks, our agents are trained
