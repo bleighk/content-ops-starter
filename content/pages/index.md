@@ -43,7 +43,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/milad-fakurian-bMSA5-tLFao-unsplash.jpg
+      url: /images/abstract-background.svg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
