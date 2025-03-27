@@ -21,11 +21,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
     badge:
       label: Collider
       color: text-primary
@@ -41,6 +36,14 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: cover
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/abstract-background.svg
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -51,6 +54,58 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Less busywork; more business
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >+
+      At Collider, we help small and medium-sized companies turn the promise of
+      AI into real-world impact for businesses.
+
+
+      Whether you’re drowning in manual tasks, missing sales opportunities, or
+      simply not sure where to start—Collider brings clarity and execution.
+
+
+      We don’t just build tools. We build systems that think, work, and scale
+      alongside your team.
+
+
+
+
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: /images/placeholder-video.mp4
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -170,48 +225,23 @@ sections:
 
       On your free discovery call, we’ll explore your biggest bottlenecks—and
       show you how smart automation can unlock immediate results.
-    actions: []
-    media:
-      type: FormBlock
-      fields:
-        - type: TextFormControl
-          name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
-          hideLabel: true
-          placeholder: Your message
-          width: full
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
+    actions:
+      - type: Button
+        label: Book Intro Call
+        altText: Book Intro Call
+        url: 'https://app.netlify.com/intro'
         icon: arrowRight
         iconPosition: right
         style: primary
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
+      - type: Button
+        label: Contact Us
+        altText: ''
+        url: 'https://form.typeform.com/to/pofZWmNp'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: bg-light-fg-dark
 seo:
   metaTitle: Home - Demo site
