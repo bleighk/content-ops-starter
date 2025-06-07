@@ -68,7 +68,7 @@ sections:
       autoplay: false
       loop: false
       muted: false
-      controls: true
+      controls: false
       aspectRatio: '16:9'
       styles:
         self:
@@ -112,9 +112,9 @@ sections:
         tagline: Find your next customer - automatically
         subtitle: ''
         text: >
-          We combine AI-powered web & social scraping with CRM enrichment and
-          smart outbound outreach. The result? Warm leads that land right in
-          your inbox
+          We combine AI-powered web & social scraping with enrichment and smart
+          outbound outreach. The result? Warm leads that land right in your
+          inbox
         image:
           url: /images/vackground-com-agUC-v_D1iI-unsplash.jpg
           altText: Placeholder Image
