@@ -11,7 +11,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Brad Knight-016.jpg"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
