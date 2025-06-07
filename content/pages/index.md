@@ -211,6 +211,35 @@ sections:
           - pl-12
           - pb-12
           - pr-12
+  - type: GenericSection
+    title:
+      type: TitleBlock
+      text: Let's explore what's possible
+      color: text-dark
+    subtitle: ''
+    text: >
+      Not sure what AI can do for your business? We know where to start.
+
+      On your free discovery call, we’ll explore your biggest bottlenecks—and
+      show you how smart automation can unlock immediate results.
+    actions:
+      - type: Button
+        label: Book Intro Call
+        altText: Book Intro Call
+        url: 'https://calendly.com/bradknight/30min'
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+      - type: Button
+        label: Contact Us
+        altText: ''
+        url: 'https://form.typeform.com/to/pofZWmNp'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+    colors: bg-light-fg-dark
   - type: CarouselSection
     subtitle: Testimonials
     items:
@@ -249,35 +278,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Let's explore what's possible
-      color: text-dark
-    subtitle: ''
-    text: >
-      Not sure what AI can do for your business? We know where to start.
-
-      On your free discovery call, we’ll explore your biggest bottlenecks—and
-      show you how smart automation can unlock immediate results.
-    actions:
-      - type: Button
-        label: Book Intro Call
-        altText: Book Intro Call
-        url: 'https://calendly.com/bradknight/30min'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-      - type: Button
-        label: Contact Us
-        altText: ''
-        url: 'https://form.typeform.com/to/pofZWmNp'
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-    colors: bg-light-fg-dark
   - type: DividerSection
     title: Divider
     elementId: ''
