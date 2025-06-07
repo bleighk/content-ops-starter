@@ -208,7 +208,7 @@ sections:
           “Brad went above and beyond. I’ve never come across someone who not
           only delivers more than what’s asked, but also takes the initiative to
           do extra work just to make things easier and run smoother.”
-        tagline: Lead Generation Customer
+        tagline: Lead Generation
         subtitle: 'Peter Semrany, Australian-based Plumbing Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
