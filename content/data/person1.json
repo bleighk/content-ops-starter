@@ -1,8 +1,8 @@
 {
-    "name": "Rhonda Piper",
-    "role": "Job title",
+    "name": "Brad Knight",
+    "role": "Founder",
     "image": {
-        "altText": "Rhonda Piper",
+        "altText": "Brad Knight",
         "styles": {
             "self": {
                 "borderRadius": "medium",
@@ -11,7 +11,8 @@
                 ]
             }
         },
-        "type": "ImageBlock"
+        "type": "ImageBlock",
+        "url": "/images/Brad Knight-016.jpg"
     },
     "colors": "bg-light-fg-dark",
     "styles": {
@@ -31,5 +32,5 @@
         }
     },
     "type": "Person",
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Brad Knight is an AI & automation engineer with over 5+ years in management consulting, and a qualified company director (GAICD)\n"
 }
