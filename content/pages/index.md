@@ -252,7 +252,7 @@ sections:
           - pb-12
           - pr-12
   - type: CarouselSection
-    subtitle: Testimonials
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: >-
