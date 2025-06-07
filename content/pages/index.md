@@ -204,9 +204,7 @@ sections:
     subtitle: Testimonials
     items:
       - type: FeaturedItem
-        title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+        title: "“\_Brad went above and beyond. I’ve worked with a lot of people on Upwork over the years, but I’ve never come across someone who not only delivers more than what’s asked, but also takes the initiative to do extra work just to make things easier and run smoother. I’ve already referred him to others and I’m really looking forward to working with him again.”"
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
