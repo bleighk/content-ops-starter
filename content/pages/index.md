@@ -100,7 +100,7 @@ sections:
           - pb-12
           - pr-12
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Testimonials
     items:
       - type: FeaturedItem
         title: >-
