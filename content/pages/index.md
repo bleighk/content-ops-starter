@@ -216,7 +216,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/person-placeholder-light.png
+          url: /images/ADP-retina.png
           altText: Maria Walters
           styles:
             self:
