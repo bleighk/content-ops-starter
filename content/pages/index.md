@@ -207,8 +207,8 @@ sections:
         title: >-
           “Brad went above and beyond. I’ve never come across someone who not
           only delivers more than what’s asked, but also takes the initiative to
-          do extra work just to make things easier and run smoother.”
-        tagline: Lead Generation
+          do extra work just to make things easier.”
+        tagline: ''
         subtitle: 'Peter Semrany, Australian-based Plumbing Company'
         text: ''
         image:
