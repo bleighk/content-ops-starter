@@ -200,6 +200,74 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
+  - type: CarouselSection
+    subtitle: Testimonials
+    items:
+      - type: FeaturedItem
+        title: >-
+          “Brad went above and beyond. I’ve never come across someone who not
+          only delivers more than what’s asked, but also takes the initiative to
+          do extra work just to make things easier and run smoother.”
+        tagline: Lead Generation
+        subtitle: 'Peter Semrany, Australian-based Plumbing Company'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/ADP-retina.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+      - type: FeaturedItem
+        title: >-
+          “Quote from some important person goes right here. I love using
+          Netlify.”
+        tagline: Testimonial 2
+        subtitle: 'Jane Doe, Company'
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/img-placeholder-dark.png
+          altText: Jane Doe
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: DividerSection
     title: Divider
     elementId: ''
@@ -252,8 +320,8 @@ sections:
           - pb-12
           - pr-12
 seo:
-  metaTitle: Collider | AI that works as hard as you 
-  metaDescription: Collider | AI that works as hard as you 
+  metaTitle: Collider | AI that works as hard as you
+  metaDescription: Collider | AI that works as hard as you
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
