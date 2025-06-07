@@ -210,8 +210,7 @@ sections:
           do extra work just to make things easier and run smoother.”
         tagline: Lead Generation
         subtitle: 'Peter Semrany, Australian-based Plumbing Company'
-        text: |
-          Peter increased the volume of his outreach by XX% 
+        text: ''
         image:
           type: ImageBlock
           url: /images/ADP-retina.png
