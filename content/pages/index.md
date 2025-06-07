@@ -240,6 +240,17 @@ sections:
         style: secondary
         elementId: ''
     colors: bg-light-fg-dark
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-12
+          - pl-12
+          - pb-12
+          - pr-12
   - type: CarouselSection
     subtitle: Testimonials
     items:
@@ -278,17 +289,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
 seo:
   metaTitle: Collider | AI that works as hard as you
   metaDescription: Collider | AI that works as hard as you
