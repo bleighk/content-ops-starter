@@ -275,7 +275,7 @@ sections:
       - type: Button
         label: Book Intro Call
         altText: Book Intro Call
-        url: 'https://app.netlify.com/intro'
+        url: 'https://calendly.com/bradknight/30min'
         icon: arrowRight
         iconPosition: right
         style: primary
