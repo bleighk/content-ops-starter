@@ -289,17 +289,6 @@ sections:
           - pl-12
           - pb-12
           - pr-12
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
 seo:
   metaTitle: Collider | AI that works as hard as you
   metaDescription: Collider | AI that works as hard as you
