@@ -209,7 +209,7 @@ sections:
           only delivers more than what’s asked, but also takes the initiative to
           do extra work just to make things easier and run smoother.”
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Peter Semrany, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
