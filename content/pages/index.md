@@ -211,55 +211,6 @@ sections:
           - pl-12
           - pb-12
           - pr-12
-  - type: CarouselSection
-    subtitle: Testimonials
-    items:
-      - type: FeaturedItem
-        title: >-
-          “Brad went above and beyond. I’ve never come across someone who not
-          only delivers more than what’s asked, but also takes the initiative to
-          do extra work just to make things easier.”
-        tagline: ''
-        subtitle: 'Peter Semrany, Australian-based Plumbing Company'
-        text: ''
-        image:
-          type: ImageBlock
-          url: /images/ADP-retina.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: next-prev-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: DividerSection
-    title: Divider
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-12
-          - pl-12
-          - pb-12
-          - pr-12
   - type: GenericSection
     title:
       type: TitleBlock
@@ -300,6 +251,44 @@ sections:
           - pl-12
           - pb-12
           - pr-12
+  - type: CarouselSection
+    subtitle: ''
+    items:
+      - type: FeaturedItem
+        title: >-
+          “Brad went above and beyond. I’ve never come across someone who not
+          only delivers more than what’s asked, but also takes the initiative to
+          do extra work just to make things easier.”
+        tagline: ''
+        subtitle: 'Peter Semrany, Australian-based Plumbing Company'
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/ADP-retina.png
+          altText: Maria Walters
+          styles:
+            self:
+              borderRadius: full
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Collider | AI that works as hard as you
   metaDescription: Collider | AI that works as hard as you
